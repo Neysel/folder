@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+    width: 1150px;
+    height: 800px;
+    margin: 0 auto;
+}
+.head_line {
+    margin: 0 auto;
+    height: 3px;
+    width: 100px;
+    background-color: coral;
+}
+.text {
+   margin-top: 20px;
+   color: rgb(117, 117, 117);
+}
+.item {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 20px;
+    color: rgb(117, 117, 117);
+}
+.headers {
+    font-size: 35px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.item1 {
+}
+i.fa {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+    color: coral;
+    height: 50px;
+    width: 50px;
+    border: solid 2px coral;
+    border-radius: 50%;
+    padding-top: 5px;
+}
+i {
+
+}
+.fa-telegram {
+
+}
+.item2 {
+}
+.fa-superpowers {
+}
+.item3 {
+}
+.fa-ravelry {
+}

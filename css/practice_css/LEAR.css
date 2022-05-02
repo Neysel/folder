@@ -1,0 +1,14 @@
+p {
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+a {
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}

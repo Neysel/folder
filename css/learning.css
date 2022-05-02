@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+button.submit {
+    padding: 100px;
+    margin:  400px 600px;
+}
+
+
+
+.container {
+    width: 1200px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.items {
+    display:flex;
+    text-transform: none;
+    list-style: none;
+    justify-content: space-between;
+}
